@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# build
+elm-stuff
+app.js
+
+# editor files
+.idea

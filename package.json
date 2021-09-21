@@ -1,0 +1,17 @@
+{
+  "name": "photo-groove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "elm make src/PhotoGroove.elm --output app.js",
+    "start": "elm reactor"
+  },
+  "keywords": [],
+  "author": "Wai Lin Kyaw",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-format": "^0.8.5",
+    "prettier": "^2.4.1"
+  }
+}
